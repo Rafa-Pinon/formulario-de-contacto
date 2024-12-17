@@ -3,6 +3,7 @@ import React from "react";
 export default function TestForm() {
   return (
     <form
+      netlify
       id="formulario"
       name="formulario" // Asegúrate que coincide con el nombre esperado
       method="post"
